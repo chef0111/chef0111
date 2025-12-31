@@ -1,5 +1,5 @@
 <p align="center">
-	<h1>Hello World! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="wave" width="36" /> I'm Le Bao</h1>
+	<h1>Hello World! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="wave" width="36" /> I'm Le Bao 👨‍💻</h1>
 	<em>Student at University of Information Technology, VNU-HCM</em>
 </p>
 
