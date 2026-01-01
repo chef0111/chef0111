@@ -19,7 +19,7 @@
 
 ### Frontend Development
 
-<p align="left">
+<p align="left" style="display: flex; align-items: center; gap: 8px;">
   <img src="https://skillicons.dev/icons?i=nextjs,react,javascript,typescript,tailwindcss" alt="Frontend Technologies" />
     <img src="./assets/shadcn.png" alt="Shadcn/UI" width="48" height="48" />
 </p>
