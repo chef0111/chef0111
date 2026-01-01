@@ -20,7 +20,7 @@
 ### Frontend Development
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,javascript,typescript,tailwindcss" alt="Frontend Technologies" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,vite,typescript,tailwindcss" alt="Frontend Technologies" />
   &#8205;
   <img src="https://res.cloudinary.com/dpuqj2n2q/image/upload/v1767244733/shadcn_doz024.png" alt="Shadcn/UI" width="48" height="48" />
 </p>
