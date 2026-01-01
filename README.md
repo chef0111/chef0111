@@ -21,7 +21,7 @@
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nextjs,react,javascript,typescript,tailwindcss" alt="Frontend Technologies" />
-    <img src="https://ui.shadcn.com/favicon.ico" alt="Shadcn/UI" width="48" height="48" />
+    <img src="./assets/shadcn.png" alt="Shadcn/UI" width="48" height="48" />
 </p>
 
 ### Backend Development
