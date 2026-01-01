@@ -33,7 +33,7 @@
 ### Tools & DevOps
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,figma" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=git,gcp,docker,postman,vscode,figma" alt="Tools" />
 </p>
 
 <br>
