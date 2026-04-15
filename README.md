@@ -17,25 +17,33 @@
 
 ## Tech stack
 
-### Frontend Development
+### Languages
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,vite,typescript,tailwindcss" alt="Frontend Technologies" />
-  &#8205;
-  <img src="https://res.cloudinary.com/chef0111/image/upload/shadcn-logo.png" alt="Shadcn/UI" width="48" height="48" />
-</p>
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/typescript-%233178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/python-%233776AB?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-### Backend Development
+### Frameworks
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nextjs,mysql,postgresql,mongodb" alt="Backend Technologies" />
-</p>
+![React](https://img.shields.io/badge/react-%2320232a?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TanStack Start](https://img.shields.io/badge/tanstack%20start-%230092B8?style=for-the-badge&logo=tanstack)
+![Expo](https://img.shields.io/badge/expo-%231C2024?style=for-the-badge&logo=expo)
+
+### Database & ORM
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/mongodb-%23001E2B?style=for-the-badge&logo=mongodb)
+![Prisma](https://img.shields.io/badge/prisma-%232D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Drizzle](https://img.shields.io/badge/drizzle-%23C5F74F?style=for-the-badge&logo=drizzle&logoColor=black)
 
 ### Tools & DevOps
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,gcp,docker,postman,vscode,figma" alt="Tools" />
-</p>
+![Git](https://img.shields.io/badge/git-%23F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/postman-%23FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-black?style=for-the-badge&logo=vercel)
+![Claude](https://img.shields.io/badge/claude-%231F1F1E?style=for-the-badge&logo=claude)
 
 <br>
 
