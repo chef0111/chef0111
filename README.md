@@ -3,7 +3,7 @@
 	<em>Student at University of Information Technology, VNU-HCM</em>
 </p>
 
-**Location:** Ho Chi Minh, Viet Nam • **Email:** <a href="mailto:letrangiabao14@gmail.com">letrangiabao14@gmail.com</a>
+Check out my **developer portfolio**: [Cheffolio](https://cheffolio.vercel.app)
 
 ---
 
@@ -56,4 +56,4 @@
 
 ---
 
-Visit my portfolio website: [cheffolio](https://cheffolio.vercel.app)
+Thanks for stopping by — feel free to reach out!
