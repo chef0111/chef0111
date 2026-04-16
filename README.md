@@ -31,7 +31,7 @@ Check out my **developer portfolio**: [Cheffolio](https://cheffolio.vercel.app)
 ![TanStack Start](https://img.shields.io/badge/tanstack%20start-%230092B8?style=for-the-badge&logo=tanstack)
 ![Expo](https://img.shields.io/badge/expo-%231C2024?style=for-the-badge&logo=expo)
 
-### Database & ORM
+### Databases & ORMs
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/mongodb-%23001E2B?style=for-the-badge&logo=mongodb)
 ![Prisma](https://img.shields.io/badge/prisma-%232D3748?style=for-the-badge&logo=prisma&logoColor=white)
