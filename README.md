@@ -9,10 +9,10 @@ Check out my **developer portfolio**: [Cheffolio](https://cheffolio.vercel.app)
 
 ## About
 
-- Senior university student with a strong focus on web development, driven to build modern, reliable, and maintainable applications.
-- Experienced with frameworks such as Next.js and TanStack Start, with a solid grasp of modern frontend architecture and best practices.
-- Focused on creating high-performance, scalable, and user-centered web applications, with attention to usability, responsiveness, and clean design.
-- Passionate about continuous learning, actively exploring new technologies and contributing to impactful, well-crafted software projects.
+- **Senior university student** focused on web development, building modern, reliable, and maintainable applications.
+- Experienced with frameworks such as **Next.js** and **TanStack Start**, with a solid grasp of modern frontend architecture and best practices.
+- Passionate about high-performance, scalable, and user-centered applications, with attention to usability and clean design.
+- Creator of [TKU Sparring System](https://tku-sparring.vercel.app/): User-friendly web application for managing Taekwondo sparring matches.
 
 <br>
 
