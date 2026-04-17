@@ -9,9 +9,10 @@ Check out my **developer portfolio**: [Cheffolio](https://cheffolio.vercel.app)
 
 ## About
 
-- I'm a student with a strong passion for software engineering — especially in web development
-- I have hands-on experience working with modern web frameworks like Next.js, and I enjoy building high-performance, scalable and user-centered web applications.
-- My goal is to consistently improve my technical skills and contribute to impactful software projects.
+- Senior university student with a strong focus on web development, driven to build modern, reliable, and maintainable applications.
+- Experienced with frameworks such as Next.js and TanStack Start, with a solid grasp of modern frontend architecture and best practices.
+- Focused on creating high-performance, scalable, and user-centered web applications, with attention to usability, responsiveness, and clean design.
+- Passionate about continuous learning, actively exploring new technologies and contributing to impactful, well-crafted software projects.
 
 <br>
 
