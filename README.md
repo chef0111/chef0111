@@ -3,7 +3,7 @@
 	<em>Student at University of Information Technology, VNU-HCM</em>
 </p>
 
-Check out my **developer portfolio**: [Cheffolio](https://cheffolio.vercel.app)
+Check out my **developer portfolio**: [giabao.dev](https://giabao.dev)
 
 ---
 
