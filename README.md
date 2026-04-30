@@ -48,6 +48,13 @@ Check out my **developer portfolio**: [giabao.dev](https://giabao.dev)
 
 <br>
 
+## Honors & Awards
+- **Best VBS Award** 🥇⠀|⠀Video Browser Showdown 2026 (Champion Team) [🔗](https://drive.google.com/file/d/1hivni4-eUdWOio2I7nsSUO4vNu_-gwPE/view)
+- **Consolation Prize** 🎖️⠀| ⠀HCMC AI Challenge 2025 (5th place Team) [🔗](https://drive.google.com/file/d/1yhIxFXDrW1DNB2Mq7UhuCuNwRkQXvOaX/view)
+- **Accepted Rank B Paper** 📝⠀| ⠀Fusionista2.0 (MMM2026) [🔗](https://arxiv.org/pdf/2511.12255)
+
+<br>
+
 ## Stats
 
 <a href="https://github.com/chef0111/github-readme-stats#gh-dark-mode-only"><img align="top" alt="chef0111-github-stats-dark" src="https://chef0111-github-readme-stats.vercel.app/api?v=2&username=chef0111&show=reviews&show_icons=true&hide_border=true&text_bold=false&theme=dark&bg_color=00000000&border_radius=12&card_width=440&custom_title=Overview#gh-dark-mode-only"></a>
