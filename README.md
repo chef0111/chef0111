@@ -49,7 +49,7 @@ Check out my **developer portfolio**: [giabao.dev](https://giabao.dev)
 <br>
 
 ## Honors & Awards
-- **Best VBS Award** 🥇⠀|⠀Video Browser Showdown 2026 (Champion Team) [🔗](https://drive.google.com/file/d/1hivni4-eUdWOio2I7nsSUO4vNu_-gwPE/view)
+- **Best VBS Award** 🥇⠀| ⠀Video Browser Showdown 2026 (Champion Team) [🔗](https://drive.google.com/file/d/1hivni4-eUdWOio2I7nsSUO4vNu_-gwPE/view)
 - **Consolation Prize** 🎖️⠀| ⠀HCMC AI Challenge 2025 (5th place Team) [🔗](https://drive.google.com/file/d/1yhIxFXDrW1DNB2Mq7UhuCuNwRkQXvOaX/view)
 - **Accepted Rank B Paper** 📝⠀| ⠀Fusionista2.0 (MMM2026) [🔗](https://arxiv.org/pdf/2511.12255)
 
