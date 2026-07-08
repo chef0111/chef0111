@@ -1,13 +1,21 @@
-<p align="center">
-	<h1><img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="wave" width="36" /> Hello World! I'm Gia Bảo 👨‍💻</h1>
-	<em>Student at University of Information Technology, VNU-HCM</em>
-</p>
+<div align="center">
 
-Check out my **developer portfolio**: [giabao.dev](https://giabao.dev)
+```
+ ██████╗ ██╗ █████╗ ██████╗  █████╗  ██████╗    ██████╗ ███████╗██╗   ██╗
+██╔════╝ ██║██╔══██╗██╔══██╗██╔══██╗██╔═══██╗   ██╔══██╗██╔════╝██║   ██║
+██║  ███╗██║███████║██████╔╝███████║██║   ██║   ██║  ██║█████╗  ██║   ██║
+██║   ██║██║██╔══██║██╔══██╗██╔══██║██║   ██║   ██║  ██║██╔══╝  ╚██╗ ██╔╝
+╚██████╔╝██║██║  ██║██████╔╝██║  ██║╚██████╔╝██╗██████╔╝███████╗ ╚████╔╝ 
+ ╚═════╝ ╚═╝╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚═╝╚═════╝ ╚══════╝  ╚═══╝  
+```
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&width=435&lines=Senior+Student+%40+UIT+-+VNUHCM;Next.js+Enthusiast+%7C+Fullstack+Dev;Ho+Chi+Minh+City%2C+Viet+Nam+%F0%9F%87%BB%F0%9F%87%B3)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
-## ABOUT
+## `> about.me`
 
 - Final-year student with a strong passion for web development.
 - Hands-on experience with SSR-driven frameworks such as **Next.js** and **TanStack Start**.
@@ -16,7 +24,7 @@ Check out my **developer portfolio**: [giabao.dev](https://giabao.dev)
 
 <br>
 
-## **TECH STACK**
+## `> tech.stack`
 
 ### Languages
 
@@ -48,14 +56,14 @@ Check out my **developer portfolio**: [giabao.dev](https://giabao.dev)
 
 <br>
 
-## **HONORS & AWARDS**
+## `> honors.awards`
 - **[Best VBS Award](https://drive.google.com/file/d/1hivni4-eUdWOio2I7nsSUO4vNu_-gwPE/view)** 🥇⠀| ⠀Video Browser Showdown 2026 (Champion Team)
 - **[Consolation Prize](https://drive.google.com/file/d/1yhIxFXDrW1DNB2Mq7UhuCuNwRkQXvOaX/view)** 🎖️⠀| ⠀HCMC AI Challenge 2025 (5th Place Team)
 - **[Accepted Rank B Paper](https://arxiv.org/pdf/2511.12255)** 📝⠀| ⠀Fusionista2.0 (MMM2026)
 
 <br>
 
-## **STATS**
+## `> github.stats`
 
 <a href="https://github.com/chef0111/github-readme-stats#gh-dark-mode-only"><img align="top" alt="chef0111-github-stats-dark" src="https://chef0111-github-readme-stats.vercel.app/api?v=2&username=chef0111&show=reviews&show_icons=true&hide_border=true&text_bold=false&theme=dark&bg_color=00000000&border_radius=12&card_width=440&custom_title=Overview#gh-dark-mode-only"></a>
 <a href="https://github.com/chef0111/github-readme-stats#gh-light-mode-only"><img align="top" alt="chef0111-github-stats-light" src="https://chef0111-github-readme-stats.vercel.app/api?v=2&username=chef0111&show=reviews&show_icons=true&hide_border=true&text_bold=false&theme=default&bg_color=00000000&border_radius=12&card_width=440&custom_title=Overview#gh-light-mode-only"></a>
