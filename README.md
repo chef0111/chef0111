@@ -65,10 +65,13 @@
 
 ## `> github.stats`
 
-<a href="https://github.com/chef0111/github-readme-stats#gh-dark-mode-only"><img align="top" alt="chef0111-github-stats-dark" src="https://chef0111-github-readme-stats.vercel.app/api?v=2&username=chef0111&show=reviews&show_icons=true&hide_border=true&text_bold=false&theme=dark&bg_color=00000000&border_radius=12&card_width=440&custom_title=Overview#gh-dark-mode-only"></a>
-<a href="https://github.com/chef0111/github-readme-stats#gh-light-mode-only"><img align="top" alt="chef0111-github-stats-light" src="https://chef0111-github-readme-stats.vercel.app/api?v=2&username=chef0111&show=reviews&show_icons=true&hide_border=true&text_bold=false&theme=default&bg_color=00000000&border_radius=12&card_width=440&custom_title=Overview#gh-light-mode-only"></a>
-<a href="https://github.com/chef0111/github-readme-stats#gh-dark-mode-only"><img align="top" alt="top-langs-dark" src="https://chef0111-github-readme-stats.vercel.app/api/top-langs/?v=2&username=chef0111&layout=compact&hide_border=true&text_bold=false&theme=dark&bg_color=00000000&border_radius=12&card_width=320#gh-dark-mode-only"></a>
-<a href="https://github.com/chef0111/github-readme-stats#gh-light-mode-only"><img align="top" alt="top-langs-light" src="https://chef0111-github-readme-stats.vercel.app/api/top-langs/?v=2&username=chef0111&layout=compact&hide_border=true&text_bold=false&theme=default&bg_color=00000000&border_radius=12&card_width=320#gh-light-mode-only"></a>
+<div align="center">
+
+![GitHub stats](https://github-readme-terminal-ascii.vercel.app/svg/stats?user=chef0111&scale=0.8)
+![GitHub top languages](https://github-readme-terminal-ascii.vercel.app/svg/top-lang?user=chef0111&top=8&scale=0.8)
+![GitHub contribution graph](https://github-readme-terminal-ascii.vercel.app/svg?user=chef0111&scale=0.85)
+
+</div>
 
 ---
 
