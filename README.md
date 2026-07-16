@@ -67,8 +67,8 @@
 
 <div align="center">
 
-![GitHub stats](https://github-readme-terminal-ascii.vercel.app/svg/stats?user=chef0111&scale=0.7)
-![GitHub top languages](https://github-readme-terminal-ascii.vercel.app/svg/top-lang?user=chef0111&top=8&scale=0.6)
+![GitHub stats](https://github-readme-terminal-ascii.vercel.app/svg/stats?user=chef0111&scale=0.67)
+![GitHub top languages](https://github-readme-terminal-ascii.vercel.app/svg/top-lang?user=chef0111&top=8&scale=0.67)
 ![GitHub contribution graph](https://github-readme-terminal-ascii.vercel.app/svg?user=chef0111&scale=0.8)
 
 </div>
