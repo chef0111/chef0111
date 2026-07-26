@@ -47,7 +47,7 @@
 [![Expo](https://img.shields.io/badge/expo-%231C2024?style=for-the-badge&logo=expo)](https://expo.dev)
 
 ### Frontend
-[![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2306B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com)
+[![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338BDF8?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com)
 [![shadcn/ui](https://img.shields.io/badge/shadcn/ui-black?style=for-the-badge&logo=shadcnui&logoColor=white)](https://ui.shadcn.com#gh-light-mode-only)
 [![shadcn/ui](https://img.shields.io/badge/shadcn/ui-white?style=for-the-badge&logo=shadcnui&logoColor=black)](https://ui.shadcn.com#gh-dark-mode-only)
 [![Motion](https://img.shields.io/badge/motion-%23FFF312?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzNCAxMiI+PHBhdGggZD0iTSAxMi44MzggMCBMIDYuMTIgMTEuOTg5IEwgMCAxMS45ODkgTCA1LjI0NSAyLjYyOCBDIDYuMDU5IDEuMTc2IDguMDg4IDAgOS43NzggMCBaIE0gMjcuODQ2IDIuOTk3IEMgMjcuODQ2IDEuMzQyIDI5LjIxNiAwIDMwLjkwNiAwIEMgMzIuNTk2IDAgMzMuOTY2IDEuMzQyIDMzLjk2NiAyLjk5NyBDIDMzLjk2NiA0LjY1MyAzMi41OTYgNS45OTUgMzAuOTA2IDUuOTk1IEMgMjkuMjE2IDUuOTk1IDI3Ljg0NiA0LjY1MyAyNy44NDYgMi45OTcgWiBNIDEzLjk4NSAwIEwgMjAuMTA1IDAgTCAxMy4zODcgMTEuOTg5IEwgNy4yNjcgMTEuOTg5IFogTSAyMS4yMTQgMCBMIDI3LjMzNCAwIEwgMjIuMDg4IDkuMzYyIEMgMjEuMjc1IDEwLjgxMyAxOS4yNDYgMTEuOTg5IDE3LjU1NiAxMS45ODkgTCAxNC40OTYgMTEuOTg5IFoiIGZpbGw9InZhcigtLXRva2VuLTA0ZDkzMjU1LWQ2YWItNGJiYy1hMTk0LTcxZTAwNDIxNGZiMCwgcmdiKDEyLCAxNiwgMTgpKSI+PC9wYXRoPjwvc3ZnPg==)](https://motion.dev)
