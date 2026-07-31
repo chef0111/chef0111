@@ -44,6 +44,7 @@
 [![Next.js](https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org#gh-light-mode-only)
 [![Next.js](https://img.shields.io/badge/next.js-white?style=for-the-badge&logo=next.js&logoColor=black)](https://nextjs.org#gh-dark-mode-only)
 [![TanStack Start](https://img.shields.io/badge/tanstack%20start-%230092B8?style=for-the-badge&logo=tanstack)](https://tanstack.com/start/latest)
+[![Nest.js](https://img.shields.io/badge/nest.js-%23E0234E?style=for-the-badge&logo=nestjs)](https://nestjs.com)
 [![Expo](https://img.shields.io/badge/expo-%231C2024?style=for-the-badge&logo=expo)](https://expo.dev)
 
 ### Frontend
@@ -62,9 +63,8 @@
 
 ### Workflow & AI
 [![Git](https://img.shields.io/badge/git-%23F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
-[![GitHub](https://img.shields.io/badge/github-%23000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com#gh-light-mode-only)
-[![GitHub](https://img.shields.io/badge/github-%23F2F5F3?style=for-the-badge&logo=github&logoColor=black)](https://github.com#gh-dark-mode-only)
 [![Docker](https://img.shields.io/badge/docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com)
+[![Turborepo](https://img.shields.io/badge/turborepo-%23FF1E56?style=for-the-badge&logo=turborepo&logoColor=white)](https://turborepo.dev)
 [![Cursor](https://img.shields.io/badge/cursor-%2314120B?style=for-the-badge&logo=Cursor&logoColor=EDECEC)](https://cursor.com#gh-light-mode-only)
 [![Cursor](https://img.shields.io/badge/cursor-%23F7F7F4?style=for-the-badge&logo=Cursor&logoColor=26251E)](https://cursor.com#gh-dark-mode-only)
 [![Claude](https://img.shields.io/badge/claude-%231F1F1E?style=for-the-badge&logo=claude)](https://claude.ai)
