@@ -43,7 +43,7 @@
 [![React](https://img.shields.io/badge/react-%2320232a?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://react.dev)
 [![Next.js](https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org#gh-light-mode-only)
 [![Next.js](https://img.shields.io/badge/next.js-white?style=for-the-badge&logo=next.js&logoColor=black)](https://nextjs.org#gh-dark-mode-only)
-[![TanStack Start](https://img.shields.io/badge/tanstack%20start-%230092B8?style=for-the-badge&logo=tanstack)](https://tanstack.com/start/latest)
+[![TanStack Start](https://img.shields.io/badge/tanstack%20start-%2339AF46?style=for-the-badge&logo=tanstack&logoColor=white)](https://tanstack.com/start/latest)
 [![Nest.js](https://img.shields.io/badge/nest.js-%23E0234E?style=for-the-badge&logo=nestjs)](https://nestjs.com)
 [![Expo](https://img.shields.io/badge/expo-%231C2024?style=for-the-badge&logo=expo)](https://expo.dev)
 
@@ -52,7 +52,7 @@
 [![shadcn/ui](https://img.shields.io/badge/shadcn/ui-black?style=for-the-badge&logo=shadcnui&logoColor=white)](https://ui.shadcn.com#gh-light-mode-only)
 [![shadcn/ui](https://img.shields.io/badge/shadcn/ui-white?style=for-the-badge&logo=shadcnui&logoColor=black)](https://ui.shadcn.com#gh-dark-mode-only)
 [![Motion](https://img.shields.io/badge/motion-%23FFF312?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzNCAxMiI+PHBhdGggZD0iTSAxMi44MzggMCBMIDYuMTIgMTEuOTg5IEwgMCAxMS45ODkgTCA1LjI0NSAyLjYyOCBDIDYuMDU5IDEuMTc2IDguMDg4IDAgOS43NzggMCBaIE0gMjcuODQ2IDIuOTk3IEMgMjcuODQ2IDEuMzQyIDI5LjIxNiAwIDMwLjkwNiAwIEMgMzIuNTk2IDAgMzMuOTY2IDEuMzQyIDMzLjk2NiAyLjk5NyBDIDMzLjk2NiA0LjY1MyAzMi41OTYgNS45OTUgMzAuOTA2IDUuOTk1IEMgMjkuMjE2IDUuOTk1IDI3Ljg0NiA0LjY1MyAyNy44NDYgMi45OTcgWiBNIDEzLjk4NSAwIEwgMjAuMTA1IDAgTCAxMy4zODcgMTEuOTg5IEwgNy4yNjcgMTEuOTg5IFogTSAyMS4yMTQgMCBMIDI3LjMzNCAwIEwgMjIuMDg4IDkuMzYyIEMgMjEuMjc1IDEwLjgxMyAxOS4yNDYgMTEuOTg5IDE3LjU1NiAxMS45ODkgTCAxNC40OTYgMTEuOTg5IFoiIGZpbGw9InZhcigtLXRva2VuLTA0ZDkzMjU1LWQ2YWItNGJiYy1hMTk0LTcxZTAwNDIxNGZiMCwgcmdiKDEyLCAxNiwgMTgpKSI+PC9wYXRoPjwvc3ZnPg==)](https://motion.dev)
-[![TanStack Query](https://img.shields.io/badge/tanstack%20query-%23FF4154?style=for-the-badge&logo=tanstack)](https://tanstack.com/query/latest)
+[![TanStack Query](https://img.shields.io/badge/tanstack%20query-%23D3481B?style=for-the-badge&logo=tanstack&logoColor=white)](https://tanstack.com/query/latest)
 
 ### Backend & Database
 [![Node.js](https://img.shields.io/badge/node.js-%235FA04E?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org)
